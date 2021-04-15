@@ -1,0 +1,147 @@
+
+nav {
+    background-color: #f72210;
+    height: fit-content;
+}
+
+.login {
+    color: white;
+    background-color: #f72210;
+    border: none;
+}
+
+.subscribe {
+    color: black;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    background-color: yellow;
+
+}
+
+.block-title {
+    color: rgba(3,3,3,.4);
+    font: bold 16px/16px "Roboto Condensed",sans-serif;
+    padding-bottom: 11px;
+    margin-top: 5px;
+}
+
+.image {
+    padding-bottom: 15px;
+}
+
+.news-head {
+    font: bold 16px/16px "Roboto Condensed",sans-serif;
+    padding: 10px 0 12px 0;
+}
+
+.news-body {
+    font: 10px/10px "Roboto Condensed",sans-serif;
+    margin-bottom: 10px;
+}
+
+.small-title {
+    color: gray;
+    font: bold 12px/12px "Roboto Condensed",sans-serif;
+    padding: 10px 0 25px 0;
+    margin-top: 20px;
+}
+
+.small-text {
+    color: rgb(58, 52, 52);
+    font: bold 10px/10px "Roboto Condensed",sans-serif;
+    padding: 10px 0 25px 0;
+    width: 100px;
+}
+
+.clear-fix {
+    border-top: 1px solid #ddd;
+    margin-bottom: 5px;
+}
+
+.article-image {
+    float: left;
+    padding: 10px;
+}
+
+.article-header {
+    font-size: 14px;
+    margin-top: 8px;
+    font: bolder 13px/13px "Roboto Condensed",sans-serif;
+}
+
+.article-summary {
+    font-size: 10px;
+}
+
+.opinion {
+    border-top: 4px solid #d9d9d9;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.opinion-title {
+    font-size: 11px;
+    font-weight: bolder;
+    margin-top: 0px;
+}
+
+.opinion-head {
+    float: left;
+    padding: 0 10px 10px 10px
+}
+
+.opinion-author {
+    font-size: 10px;
+}
+
+.grid-title {
+    text-align: center;
+    font: bolder 16px/16px "Roboto Condensed",sans-serif;
+    border-bottom: 1px solid #ddd;
+    padding: 7px;
+    margin: 19px 0;
+}
+
+.grid-image {
+    padding: 0px;
+}
+
+.grid-text {
+    font: bolder 15px/15px "Roboto Condensed",sans-serif;
+    padding: 5px 0;
+    margin-bottom: 12px;
+}
+
+.section-title {
+    color: #f72210;
+    font: bolder 15px/15px "Roboto Condensed",sans-serif;
+    margin: 10px 0 5px 0;
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+}
+
+.section-articles {
+    border-bottom: 1px solid #ddd;
+    margin: 10px;
+}
+
+.section-image {
+    float: left;
+    padding: 0 10px;
+}
+
+.section-header, .section-article {
+    font: bolder 13px/13px "Roboto Condensed",sans-serif;
+    height: 100px;
+}
+
+.footer-text {
+    border-top: 1px solid #ddd;
+    border-bottom: 4px solid rgb(117, 114, 114);
+    height: 100px;
+}
+
+.icons {
+    float: right;
+}
+
